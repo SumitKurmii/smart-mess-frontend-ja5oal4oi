@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "destination": "https://smart-mess-frontend-sumitkurmii.vercel.app/$1",
+      "permanent": false
+    }
+  ]
+}
